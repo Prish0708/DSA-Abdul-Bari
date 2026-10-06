@@ -1,3 +1,4 @@
+#include <cstdio>
 int sum(int n)
 {
  if(n==0)
